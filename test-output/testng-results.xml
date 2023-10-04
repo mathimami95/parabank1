@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19272" started-at="2023-09-19T15:40:01Z" finished-at="2023-09-19T15:40:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19272" started-at="2023-09-19T15:40:01Z" finished-at="2023-09-19T15:40:20Z">
+      <class name="org.base.Execution">
+        <test-method status="PASS" signature="before()[pri:0, instance:org.base.Execution@32464a14]" name="before" is-config="true" duration-ms="202" started-at="2023-09-19T15:40:01Z" finished-at="2023-09-19T15:40:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Browser()[pri:-2, instance:org.base.Execution@32464a14]" name="Browser" duration-ms="4465" started-at="2023-09-19T15:40:01Z" finished-at="2023-09-19T15:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method status="PASS" signature="launched()[pri:-1, instance:org.base.Execution@32464a14]" name="launched" duration-ms="4382" started-at="2023-09-19T15:40:05Z" finished-at="2023-09-19T15:40:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launched -->
+        <test-method status="PASS" signature="tc00_testingloginpage()[pri:0, instance:org.base.Execution@32464a14]" name="tc00_testingloginpage" duration-ms="5448" started-at="2023-09-19T15:40:10Z" finished-at="2023-09-19T15:40:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc00_testingloginpage -->
+        <test-method status="PASS" signature="paymentstatus()[pri:1, instance:org.base.Execution@32464a14]" name="paymentstatus" duration-ms="3279" started-at="2023-09-19T15:40:15Z" finished-at="2023-09-19T15:40:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentstatus -->
+        <test-method status="PASS" signature="finalstatus()[pri:2, instance:org.base.Execution@32464a14]" name="finalstatus" duration-ms="690" started-at="2023-09-19T15:40:18Z" finished-at="2023-09-19T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalstatus -->
+        <test-method status="PASS" signature="After()[pri:0, instance:org.base.Execution@32464a14]" name="After" is-config="true" duration-ms="733" started-at="2023-09-19T15:40:19Z" finished-at="2023-09-19T15:40:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+      </class> <!-- org.base.Execution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
